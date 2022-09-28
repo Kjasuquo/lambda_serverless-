@@ -1,0 +1,1 @@
+Implementing Lambda serverless architecture with Golang and DynamoDB to perform CRUD operations
